@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="score" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="score"/>
+			<item value="sum_xy"/>
+			<item value="sum_yy"/>
+			<item value="sum_xx"/>
+			<item value="makePairs"/>
+			<item value="filterDuplicates"/>
+			<item value="computeCosineSimilarity"/>
+			<item value="osineSimilarity"/>
+			<item value="userRatings"/>
+			<item value="UserRatingPair"/>
+			<item value="UserIDRatingPair"/>
+			<item value="MovieRating"/>
+			<item value="sundog"/>
+			<item value="myRatings"/>
+			<item value="colla"/>
+		</list>
+		<list key="replacehistory">
+			<item value="res"/>
+			<item value="sumXY"/>
+			<item value="sumYY"/>
+			<item value="sumXX"/>
+			<item value="createPairs"/>
+			<item value="cosineSimilarity"/>
+			<item value="usersRatings"/>
+			<item value="UserIDRatingPair"/>
+			<item value=""/>
+			<item value="MovieIDRating"/>
+			<item value="val"/>
+			<item value="predictedRatings"/>
+			<item value="benchMark"/>
+			<item value="RMSE"/>
+			<item value="optNumIter"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="290" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="409" key="DIALOG_HEIGHT"/>
+		<item value="1108" key="DIALOG_X_ORIGIN"/>
+		<item value="212" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

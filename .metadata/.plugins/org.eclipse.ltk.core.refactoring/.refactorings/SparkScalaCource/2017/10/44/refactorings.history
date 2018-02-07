@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MostPopularSuperhero.scala&apos; to &apos;MostPopularSuperhero.scala&apos;&#x0A;- Original project: &apos;SparkScalaCource&apos;&#x0A;- Destination element: &apos;MostPopularSuperhero.scala&apos;&#x0A;- Original element: &apos;MostPopularSuperhero.scala&apos;" description="Copy file" element1="src/com/sundogsoftware/spark/MostPopularSuperhero.scala" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1509471215131" target="/SparkScalaCource/src/com/sundogsoftware/spark/MostPopularSuperhero.scala" units="0" version="1.0"/>
+</session>
