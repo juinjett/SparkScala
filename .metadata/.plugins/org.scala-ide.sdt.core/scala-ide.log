@@ -2965,3 +2965,5 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: 1139
 2018-02-07 12:53:15,322  WARN [Worker-0] - ScalaProject - Project myTest runs on platform default installation.
 2018-02-07 12:54:27,268  WARN [main] - ScalaProject - Project myTest has platform default sourceLevel.
 2018-02-07 12:54:27,271  WARN [main] - ScalaProject - Project myTest runs on platform default installation.
+2018-02-07 13:22:50,655  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2018-02-07 13:22:52,235  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
